@@ -10,10 +10,11 @@
   "dependencies": {
     "@babel/runtime": "^7.11.2",
     "jquery": "^3.5.1",
-    "bcrypt-nodejs": "0.0.3"
+    "bcrypt-nodejs": "0.0.3",
+    "node": "12.x",
+    "npm": "6.x"
   },
-  
-  "meteor": {
+   "meteor": {
     "mainModule": {
       "client": "client/main.js",
       "server": "server/main.js"
