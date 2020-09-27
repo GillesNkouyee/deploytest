@@ -21,3 +21,43 @@ shell-server            # Server-side component of the `meteor shell` command
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+session
+alanning:roles
+accounts-ui
+accounts-password
+accounts-facebook
+accounts-google
+service-configuration
+accounts-twitter
+aldeed:collection2
+aldeed:autoform
+cfs:autoform
+stef:import-export-excel
+flemay:less-autoprefixer
+momentjs:moment
+underscore
+ejson
+jss:spinner
+socialize:base-model
+dburles:google-maps
+mdg:geolocation
+chrismbeckett:toastr
+aldeed:tabular
+email
+joshowens:shareit
+check
+msavin:mongol
+inno:zoom
+tomi:upload-server
+harrison:papa-parse
+meteorhacks:ssr
+cfs:ejson-file
+cesarve:simple-chat
+cfs:filesystem
+themeteorchef:bert
+webtempest:animate
+cfs:s3
+allow-deny
+cfs:graphicsmagick
+lbee:lunr
+tmeasday:paginated-subscription
